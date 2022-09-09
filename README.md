@@ -7,7 +7,7 @@
 **How long does this RDP stay active?**<br>
 * This RDP stays active for up to 6 hours.<br>
 
-## How to use it?
+## Installations
 
 #### First Step
 1. Press the **fork** button  
